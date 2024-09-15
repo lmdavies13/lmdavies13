@@ -1,9 +1,6 @@
 ### About Me
 
-Former US Air Force Munitions Inspector, currently studying Computer Science at SUNY Brockport with a concentration in Advanced
-Computing, a minor in Mathematics, and a strong foundation in Object-Oriented Programming in Java and proficiency in Python and
-SQL. Experienced leader with excellent communication skills, dedicated to leveraging technology to automate data analytics and
-drive project success.
+
 
 <!--
 **lmdavies13/lmdavies13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
