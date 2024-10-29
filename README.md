@@ -1,5 +1,5 @@
 ### About Me
-
+U.S. Air Force veteran and senior Computer Science student with a Mathematics minor at SUNY Brockport. Proven leader in AI-driven development, managing teams and conducting research in machine learning, deep learning, and data analytics. Skilled in Python, Java, SQL, and AI technologies such as LLMs and Transformer models. Experienced in leading diverse projects in AI and data science, focusing on innovative solutions for real-world applications.
 
 
 <!--
