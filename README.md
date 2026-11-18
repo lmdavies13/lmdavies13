@@ -1,8 +1,8 @@
 ### About Me
 
-Banking Data Science & Insights Analyst /n
-SUNY Brockport Computer Science Grad /n
-RIT Data Science MS Student /n
+Banking Data Science & Insights Analyst - 
+SUNY Brockport Computer Science Grad - 
+RIT Data Science MS Student 
 
 <!--
 **lmdavies13/lmdavies13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
